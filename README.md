@@ -1,2 +1,2 @@
 # dad
-`python3 main.py`
+to run: `python3 main.py`
